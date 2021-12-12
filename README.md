@@ -1,10 +1,11 @@
-This is the new hub for my presentations and themes.
+# Radboud University Legacy Corporate Style
 
-# Usage
+With the start of the 2014-2015 academic year the Radboud University decided to overhaul their corporate image. This repository hosts the LaTeX Beamer version of that Powerpoint template for presentations.
 
-Besides a somewhat up-to-date LaTeX installation, you can make most of these presentations by using presentation software that supports presenter notes. Each presentation comes in three files:
-* -slides: This version contains the slides that are normally only visible to the audience
-* -notes: This version contains only the notes, and are only for the presenter. Each slide has its own page of notes
-* -both: Contains both the slides and notes, side by side
+Keep in mind that this version is outdated, given that the Corporate Style has been updated again.
 
-I used to use [SplitShow](https://code.google.com/p/splitshow/), but it doesn't support hyperlinks made by hyperref. So now I use [Skim](http://skim-app.sourceforge.net). The downside is that Skim wants to have separate versions of the slides and notes. SplitShow did fine with the both versions.
+## Compatibility
+The template renders correctly on Overleaf.com as of 12.12.2021. Any visual issues are artefacts that were already present in the repository published by [Louis Onrust](https://github.com/naiaden/presentations).
+
+## To Do:
+* Fix the Radboud University Default Title Page
