@@ -444,7 +444,7 @@
 {
     \begin{picture}(0,0)
 
-        \put(-28.5,-267){%
+        \put(-28.5,-255){%
             \ifthenelse{\equal{\dept}{clst}}{%
             \includegraphics[width=1\paperwidth]{backgrounds/ruhuisstijl_clst_2014-43-front.pdf}
     }{%
